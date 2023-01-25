@@ -1,9 +1,13 @@
 # Large Language Models
 
-1. GPT-3 (Generative Pretrained Transformer)\n
+1. GPT-3 (Generative Pretrained Transformer)
+
     Paper: <https://arxiv.org/pdf/2005.14165v4.pdf>
+
     Code: <https://github.com/openai/gpt-3>
+
     Developer: OpenAI
+    
     Parameters: 175 billion
 
 2. PaLM (Pathways Language Model)
