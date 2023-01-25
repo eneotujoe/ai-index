@@ -1,8 +1,8 @@
-Large Language Models are models with large numbers of parameters trained for predicting the next word or character in a document.
+# Large Language Models
 
-1. GPT-3 (Generative Pretrained Transformer)
-    Paper: https://arxiv.org/pdf/2005.14165v4.pdf
-    Code: https://github.com/openai/gpt-3
+1. GPT-3 (Generative Pretrained Transformer)\n
+    Paper: <https://arxiv.org/pdf/2005.14165v4.pdf>
+    Code: <https://github.com/openai/gpt-3>
     Developer: OpenAI
     Parameters: 175 billion
 
